@@ -14,6 +14,8 @@ npm run dev          # http://localhost:5173
 npm run build        # production web build in dist/
 ```
 
+Live web version: https://afernandescv91.github.io/ProjectSecretAlamanac/. Each push to `main` or a `globe-*` branch rebuilds it and publishes it to the `gh-pages` branch.
+
 ### Android
 
 You need Android Studio (which brings the Android SDK) and JDK 21.
