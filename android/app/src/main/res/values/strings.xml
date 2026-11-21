@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Secret Almanac</string>
+    <string name="title_activity_main">Secret Almanac</string>
+    <string name="package_name">com.secretalmanac.app</string>
+    <string name="custom_url_scheme">com.secretalmanac.app</string>
+</resources>

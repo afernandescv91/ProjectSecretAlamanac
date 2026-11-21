@@ -1,0 +1,307 @@
+{
+  "source": "historical-basemaps by André Ourednik et al.",
+  "sourceUrl": "https://github.com/aourednik/historical-basemaps",
+  "license": "GPL-3.0",
+  "snapshots": [
+    {
+      "year": -4000,
+      "file": "-4000.json",
+      "features": 23,
+      "kb": 25
+    },
+    {
+      "year": -3000,
+      "file": "-3000.json",
+      "features": 25,
+      "kb": 27
+    },
+    {
+      "year": -2000,
+      "file": "-2000.json",
+      "features": 45,
+      "kb": 242
+    },
+    {
+      "year": -1500,
+      "file": "-1500.json",
+      "features": 69,
+      "kb": 285
+    },
+    {
+      "year": -1000,
+      "file": "-1000.json",
+      "features": 69,
+      "kb": 286
+    },
+    {
+      "year": -700,
+      "file": "-700.json",
+      "features": 79,
+      "kb": 288
+    },
+    {
+      "year": -500,
+      "file": "-500.json",
+      "features": 75,
+      "kb": 257
+    },
+    {
+      "year": -400,
+      "file": "-400.json",
+      "features": 79,
+      "kb": 287
+    },
+    {
+      "year": -323,
+      "file": "-323.json",
+      "features": 71,
+      "kb": 229
+    },
+    {
+      "year": -300,
+      "file": "-300.json",
+      "features": 78,
+      "kb": 236
+    },
+    {
+      "year": -200,
+      "file": "-200.json",
+      "features": 86,
+      "kb": 322
+    },
+    {
+      "year": -100,
+      "file": "-100.json",
+      "features": 84,
+      "kb": 233
+    },
+    {
+      "year": -1,
+      "file": "-1.json",
+      "features": 80,
+      "kb": 240
+    },
+    {
+      "year": 100,
+      "file": "100.json",
+      "features": 84,
+      "kb": 245
+    },
+    {
+      "year": 200,
+      "file": "200.json",
+      "features": 68,
+      "kb": 220
+    },
+    {
+      "year": 300,
+      "file": "300.json",
+      "features": 71,
+      "kb": 225
+    },
+    {
+      "year": 400,
+      "file": "400.json",
+      "features": 78,
+      "kb": 225
+    },
+    {
+      "year": 500,
+      "file": "500.json",
+      "features": 89,
+      "kb": 279
+    },
+    {
+      "year": 600,
+      "file": "600.json",
+      "features": 85,
+      "kb": 292
+    },
+    {
+      "year": 700,
+      "file": "700.json",
+      "features": 130,
+      "kb": 295
+    },
+    {
+      "year": 800,
+      "file": "800.json",
+      "features": 120,
+      "kb": 314
+    },
+    {
+      "year": 900,
+      "file": "900.json",
+      "features": 136,
+      "kb": 354
+    },
+    {
+      "year": 1000,
+      "file": "1000.json",
+      "features": 131,
+      "kb": 365
+    },
+    {
+      "year": 1100,
+      "file": "1100.json",
+      "features": 146,
+      "kb": 343
+    },
+    {
+      "year": 1200,
+      "file": "1200.json",
+      "features": 134,
+      "kb": 363
+    },
+    {
+      "year": 1279,
+      "file": "1279.json",
+      "features": 116,
+      "kb": 340
+    },
+    {
+      "year": 1300,
+      "file": "1300.json",
+      "features": 115,
+      "kb": 337
+    },
+    {
+      "year": 1400,
+      "file": "1400.json",
+      "features": 122,
+      "kb": 379
+    },
+    {
+      "year": 1492,
+      "file": "1492.json",
+      "features": 851,
+      "kb": 1180
+    },
+    {
+      "year": 1500,
+      "file": "1500.json",
+      "features": 140,
+      "kb": 133
+    },
+    {
+      "year": 1530,
+      "file": "1530.json",
+      "features": 276,
+      "kb": 404
+    },
+    {
+      "year": 1600,
+      "file": "1600.json",
+      "features": 654,
+      "kb": 712
+    },
+    {
+      "year": 1650,
+      "file": "1650.json",
+      "features": 589,
+      "kb": 721
+    },
+    {
+      "year": 1700,
+      "file": "1700.json",
+      "features": 585,
+      "kb": 718
+    },
+    {
+      "year": 1715,
+      "file": "1715.json",
+      "features": 601,
+      "kb": 743
+    },
+    {
+      "year": 1783,
+      "file": "1783.json",
+      "features": 556,
+      "kb": 404
+    },
+    {
+      "year": 1800,
+      "file": "1800.json",
+      "features": 553,
+      "kb": 803
+    },
+    {
+      "year": 1815,
+      "file": "1815.json",
+      "features": 326,
+      "kb": 258
+    },
+    {
+      "year": 1878,
+      "file": "1878.json",
+      "features": 176,
+      "kb": 172
+    },
+    {
+      "year": 1880,
+      "file": "1880.json",
+      "features": 173,
+      "kb": 169
+    },
+    {
+      "year": 1900,
+      "file": "1900.json",
+      "features": 222,
+      "kb": 179
+    },
+    {
+      "year": 1914,
+      "file": "1914.json",
+      "features": 144,
+      "kb": 173
+    },
+    {
+      "year": 1920,
+      "file": "1920.json",
+      "features": 162,
+      "kb": 629
+    },
+    {
+      "year": 1930,
+      "file": "1930.json",
+      "features": 171,
+      "kb": 595
+    },
+    {
+      "year": 1938,
+      "file": "1938.json",
+      "features": 163,
+      "kb": 615
+    },
+    {
+      "year": 1945,
+      "file": "1945.json",
+      "features": 185,
+      "kb": 604
+    },
+    {
+      "year": 1960,
+      "file": "1960.json",
+      "features": 160,
+      "kb": 575
+    },
+    {
+      "year": 1994,
+      "file": "1994.json",
+      "features": 196,
+      "kb": 685
+    },
+    {
+      "year": 2000,
+      "file": "2000.json",
+      "features": 197,
+      "kb": 689
+    },
+    {
+      "year": 2010,
+      "file": "2010.json",
+      "features": 197,
+      "kb": 689
+    }
+  ]
+}
